@@ -1,6 +1,5 @@
 <img src="https://github.com/andralobo/Module11-Challenge/blob/main/static/images/nasa2.jpg?raw=true">
 
-# UFO Sightings 
 ## Overview of UFO sightings Analysis
 ### Purpose
 
@@ -13,9 +12,11 @@ We used Javascript, html and Bootstrap to develop a webpage and funtionality to 
 
 Below is a sample of the filters that are available on the page:
 
+<img src="https://github.com/andralobo/Module11-Challenge/blob/main/static/images/filter.jpg?raw=true">
+
 Below is a sample of the data displayed:
 
-<img src="https://github.com/andralobo/Challenge-11/blob/main/images/data.png?raw=true">
+<img src="https://github.com/andralobo/Module11-Challenge/blob/main/static/images/data.jpg?raw=true">
 
 ## UFO Sightings Results
 
