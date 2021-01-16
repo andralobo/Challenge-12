@@ -28,7 +28,9 @@ Below is a sample of the data displayed:
 
 ## UFO Sightings Summary
 
+###Drawback
  -  One drawback of this webpage is that there is no reset button.  In order to clear the filters you need to refresh the screen
- 
+
+###Recommendations
  -  I would reccomend adding a dropdown for each criteria so there is less room for error when the user is entering in their search
- -  I would add a download button to allow the user to download their search
+ -  I would also recommend adding a download button to allow the user to download the data from their search
