@@ -1,4 +1,4 @@
-<img src="https://github.com/andralobo/Module11-Challenge/blob/main/static/images/nasa.jpg?raw=true">
+<img src="https://github.com/andralobo/Module11-Challenge/blob/main/static/images/nasa2.jpg?raw=true">
 
 # UFO Sightings 
 ## Overview of UFO sightings Analysis
