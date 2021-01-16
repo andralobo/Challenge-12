@@ -12,15 +12,15 @@ We used Javascript, html and Bootstrap to develop a webpage and funtionality to 
 
 Below is a sample of the filters that are available on the page:
 
-<img src="https://github.com/andralobo/Module11-Challenge/blob/main/static/images/filters.jpg?raw=true">
+<img src="https://github.com/andralobo/Module11-Challenge/blob/main/static/images/filters.png?raw=true">
 
 Below is a sample of the data displayed:
 
-<img src="https://github.com/andralobo/Module11-Challenge/blob/main/static/images/data.jpg?raw=true">
+<img src="https://github.com/andralobo/Module11-Challenge/blob/main/static/images/data.png?raw=true">
 
 ## UFO Sightings Results
 
-A user will access the website by clicking <a href="https://github.com/andralobo/Challenge-12/blob/main/index.html">here</a>.  Once the page loads the user can enter in a date, city, state, country and/or shape and press enter and the results will display on the right.
+A user will access the website by clicking <a href="https://github.com/andralobo/Challenge-12/blob/main/index.html" target="_blank">here</a>.  Once the page loads the user can enter in a date, city, state, country and/or shape and press enter and the results will display on the right.
 
 
 ## UFO Sightings Analysis Summary
