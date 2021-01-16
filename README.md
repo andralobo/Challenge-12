@@ -20,11 +20,11 @@ A user will access the website and once the page loads the user can enter in a d
 
 Below is a sample of the filters that are available on the page:
 
-<img src="https://github.com/andralobo/Module11-Challenge/blob/main/static/images/filters.png?raw=true">
+<img src="https://github.com/andralobo/Module11-Challenge/blob/main/static/images/filters.png?raw=true" width="70%" height="auto">
 
 Below is a sample of the data displayed:
 
-<img src="https://github.com/andralobo/Module11-Challenge/blob/main/static/images/data.png?raw=true">
+<img src="https://github.com/andralobo/Module11-Challenge/blob/main/static/images/data.png?raw=true" width="70%" height="auto">
 
 ## UFO Sightings Summary
 
